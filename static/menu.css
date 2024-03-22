@@ -1,0 +1,23 @@
+.menu{
+    height: 50px;
+    display: flex;
+    
+    padding: 20px;
+    background-color: rgb(139, 122, 122);
+    border-radius: 10%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 4px 4px 4px rgb(0 0 0 / 20%);
+
+    h1{
+        color:gray
+    }
+    a{
+        width: 10em;
+        padding: 10px;
+        color: white;
+        font-size: 20px;
+    }
+
+
+}
